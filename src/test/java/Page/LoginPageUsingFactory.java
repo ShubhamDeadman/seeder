@@ -36,7 +36,7 @@ public class LoginPageUsingFactory {
 		username.sendKeys(un);
 		password.sendKeys(pass);
 		signin.click();
-		driver.quit();
+		
 	}
 	
 	
